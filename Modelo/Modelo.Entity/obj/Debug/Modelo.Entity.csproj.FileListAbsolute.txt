@@ -1,0 +1,20 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\Modelo.Entity.dll.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\Modelo.Entity.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\Modelo.Entity.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\obj\Debug\Modelo.Entity.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Entity\obj\Debug\Modelo.Entity.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\Modelo.Entity.dll.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\Modelo.Entity.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\Modelo.Entity.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.SqlServer.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\bin\Debug\EntityFramework.SqlServer.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\obj\Debug\Modelo.Entity.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\obj\Debug\Modelo.Entity.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\obj\Debug\Modelo.Entity.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Entity\obj\Debug\Modelo.Entity.pdb

@@ -1,0 +1,450 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csprojResolveAssemblyReference.cache
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\ApplicationInsights.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\csc.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\vbc.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\WebGrease.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Cors.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Entity.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Entity.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\ApplicationInsights.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\csc.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Collections.Immutable.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Reflection.Metadata.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\vbc.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.Web.Infrastructure.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Cors.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\WebGrease.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\ApplicationInsights.config
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\csc.exe
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\vbc.exe
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll.config
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Cors.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\WebGrease.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll.config
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Cors.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\WebGrease.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\ApplicationInsights.config
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\csc.exe
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Collections.Immutable.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\vbc.exe
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe.config
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll.config
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.Web.Infrastructure.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Cors.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\WebGrease.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.xml
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.pdb
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csprojResolveAssemblyReference.cache
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.dll
+F:\Projeto Modelo\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\ApplicationInsights.config
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\csc.exe
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\vbc.exe
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll.config
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Api.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Cors.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\WebGrease.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Login.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\IHM.Log.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\IHM.ResourcesObjects.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessObjects.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.BusinessRules.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Modelo.Database.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.Web.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.Cors.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Newtonsoft.Json.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Helpers.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Mvc.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Optimization.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.Razor.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\bin\Antlr3.Runtime.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csprojResolveAssemblyReference.cache
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.csproj.CoreCompileInputs.cache
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Api\Modelo.Api\obj\Debug\Modelo.Api.pdb

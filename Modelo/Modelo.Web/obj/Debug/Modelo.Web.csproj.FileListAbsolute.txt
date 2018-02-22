@@ -1,0 +1,202 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\ApplicationInsights.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\csc.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\vbc.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\ApplicationInsights.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\csc.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Collections.Immutable.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Reflection.Metadata.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\vbc.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\ApplicationInsights.config
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\csc.exe
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\vbc.exe
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll.config
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\ApplicationInsights.config
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\csc.exe
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\vbc.exe
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll.config
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.pdb
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.dll
+C:\Users\Administrador\Desktop\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.pdb
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\ApplicationInsights.config
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\csc.exe
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\vbc.exe
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll.config
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Modelo.Web.pdb
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.Web.xml
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.xml
+F:\Projeto Modelo\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csprojResolveAssemblyReference.cache
+F:\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.dll
+F:\Projeto Modelo\Modelo\Modelo.Web\obj\Debug\Modelo.Web.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\ApplicationInsights.config
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\csc.exe
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\vbc.exe
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Modelo.Web.dll.config
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Modelo.Web.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Modelo.Web.pdb
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.Web.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.Web.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csprojResolveAssemblyReference.cache
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\obj\Debug\Modelo.Web.csproj.CoreCompileInputs.cache
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\obj\Debug\Modelo.Web.dll
+C:\Users\HeliJunior\Desktop\GitHub - PI Web API\Modelo\Modelo.Web\obj\Debug\Modelo.Web.pdb

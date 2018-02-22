@@ -1,0 +1,14 @@
+C:\Projetos\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Debug\IHM.ResourcesObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Debug\IHM.ResourcesObjects.pdb
+C:\Projetos\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Debug\IHM.ResourcesObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Debug\IHM.ResourcesObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.pdb
+F:\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Debug\IHM.ResourcesObjects.dll
+F:\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Debug\IHM.ResourcesObjects.pdb
+F:\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.dll
+F:\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Debug\IHM.ResourcesObjects.pdb

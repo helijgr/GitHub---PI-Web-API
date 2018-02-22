@@ -1,0 +1,5 @@
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.Log\bin\Release\IHM.Log.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.Log\bin\Release\IHM.Log.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.Log\obj\Release\IHM.Log.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.Log\obj\Release\IHM.Log.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.Log\obj\Release\IHM.Log.pdb

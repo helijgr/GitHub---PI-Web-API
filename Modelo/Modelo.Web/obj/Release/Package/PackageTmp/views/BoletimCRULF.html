@@ -1,0 +1,118 @@
+﻿
+<style>
+    #dthSaidaTrem {
+        text-align: center !important;
+        vertical-align: middle;
+        font-weight: bold;
+    }
+
+    #headerDthSaidaTrem {
+        text-align: center !important;
+        vertical-align: middle;
+    }
+
+    #chartdiv {
+        width: 100%;
+        height: 500px;
+    }
+
+</style>
+    <form name="formDatasAptManual">
+        <div class="application-region" layout="column" layout-gt-xs="row" layout-margin ng-hide="privilegioSupervisorOperacao==false">
+
+
+            <div layout-gt-sm="row" layout-margin>
+                <div>
+                    <md-datepicker name="DataInicial" md-max-date="BoletimCRULFModel.dthFim" md-placeholder="Informe a data"
+                                   ng-change="ctrlAp.dthChange()" ng-model="BoletimCRULFModel.dthInicio">
+                    </md-datepicker>
+                </div>
+            </div>
+
+
+            <div layout="column" layout-gt-sm="row">
+                <div layout="row" layout-align="start center">
+                    <md-button class="botaoKlabin" ng-click="ctrlAp.montaArray()">Buscar</md-button>
+                </div>
+            </div>
+
+        </div>
+    </form>
+    <md-card>
+        <md-toolbar class="md-table-toolbar md-default" ng-hide="false">
+            <div class="md-toolbar-tools">
+                <span>Relatórios</span>
+                <div flex></div>
+                <div>
+                    <md-icon class="material-icons">search</md-icon>
+                    <md-input-container>
+                        <input size="5" type="text" name="filter" ng-model="filter.search" aria-label="Filtro">
+                    </md-input-container>
+                </div>
+            </div>
+        </md-toolbar>
+
+        <md-table-container>
+            <table md-table md-row-select="BoletimCRULFModel.optionsCompAtivas.rowSelection" multiple="{{BoletimCRULFModel.optionsCompAtivas.multiSelect}}" ng-model="BoletimCRULFModel.selectedCompAtiva" md-progress="promise">
+                <tbody md-body>
+                    <tr ng-model="BoletimCRULFModel.ExibeDados" md-row md-select="dados" md-on-select="ctrlAp.checkboxCompClick" md-on-deselect="ctrlAp.deselectComp" md-auto-select="BoletimCRULFModel.optionsCompAtivas.autoSelect" ng-repeat="dados in BoletimCRULFModel.ExibeDados | filter: filter.search">
+                        <td md-cell md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].descricao}}</td>
+                        <td md-cell md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].uom}}</td>
+                        <td md-cell md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].li}}</td>
+                        <td md-cell md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].meta}}</td>
+                        <td md-cell md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].ls}}</td>
+                        <td md-cell ng-class="ctrlAp.validaLimites(dados[0], 'd')" md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].d}}</td>
+                        <td md-cell ng-class="ctrlAp.validaLimites(dados[0], 'd1')" md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].d1}}</td>
+                        <td md-cell ng-class="ctrlAp.validaLimites(dados[0], 'd2')" md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].d2}}</td>
+                        <td md-cell ng-class="ctrlAp.validaLimites(dados[0], 'm')" md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].m}}</td>
+                        <td md-cell ng-class="ctrlAp.validaLimites(dados[0], 'm1')" md-colors="{background: '{{dados[0]._Color}}'}">{{dados[0].m1}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </md-table-container>
+        <br />
+        <br />
+    </md-card>
+    <div ng-hide="BoletimCRULFModel.escondeGrafico">
+    <form name="formDatasAptManual">
+        <div class="application-region" layout="column" layout-gt-xs="row" layout-margin ng-hide="privilegioSupervisorOperacao==false">
+
+
+            <div layout-gt-sm="row" layout-margin ng-show="BoletimCRULFModel.habilitaCalendario">
+                <div>
+                    <span class="text-menu">Data Inicial: </span>
+                    <md-datepicker name="DataInicial" md-max-date="BoletimCRULFModel.dataFimDiaGrafico" md-placeholder="Informe a data"
+                                   ng-change="ctrlAp.graficoDia(BoletimCRULFModel.selectedCompAtiva[0][0])" ng-model="BoletimCRULFModel.dataInicioDiaGrafico">
+                    </md-datepicker>
+                </div>
+
+                <div>
+                    <span class="text-menu">Data Final: </span>
+                    <md-datepicker name="DataFinal" md-min-date="BoletimCRULFModel.dataInicioDiaGrafico" md-placeholder="Informe a data"
+                                   ng-change="ctrlAp.graficoDia(BoletimCRULFModel.selectedCompAtiva[0][0])" ng-model="BoletimCRULFModel.dataFimDiaGrafico"></md-datepicker>
+
+                </div>
+            </div>
+
+            <div layout="column" layout-gt-sm="row">
+                <div layout="row" layout-align="start center">
+                    <md-button class="botaoKlabin" ng-click="ctrlAp.graficoHora(BoletimCRULFModel.selectedCompAtiva[0][0])">Hora</md-button>
+                </div>
+            </div>
+
+            <div layout="column" layout-gt-sm="row">
+                <div layout="row" layout-align="start center">
+                    <md-button class="botaoKlabin" ng-click="ctrlAp.graficoDia(BoletimCRULFModel.selectedCompAtiva[0][0])">Dia</md-button>
+                </div>
+            </div>
+
+        </div>
+    </form>
+    <md-card>
+        <div class="md-toolbar-tools">
+            <span>{{BoletimCRULFModel.selectedCompAtiva[0][0].descricao}} ({{BoletimCRULFModel.selectedCompAtiva[0][0].uom}})</span>
+            <div flex></div>
+        </div>
+        <div id="chartdiv"></div>
+    </md-card>
+    </div>

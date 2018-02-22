@@ -1,0 +1,6 @@
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Release\Modelo.BusinessObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Release\Modelo.BusinessObjects.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Release\Modelo.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Release\Modelo.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Release\Modelo.BusinessObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Release\Modelo.BusinessObjects.pdb

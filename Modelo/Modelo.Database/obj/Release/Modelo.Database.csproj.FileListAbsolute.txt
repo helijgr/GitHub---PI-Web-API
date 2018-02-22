@@ -1,0 +1,6 @@
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Database\bin\Release\Modelo.Database.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Database\bin\Release\Modelo.Database.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Database\obj\Release\Modelo.Database.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Database\obj\Release\Modelo.Database.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Database\obj\Release\Modelo.Database.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.Database\obj\Release\Modelo.Database.pdb

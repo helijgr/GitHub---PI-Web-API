@@ -1,0 +1,22 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.pdb
+F:\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.dll
+F:\Projeto Modelo\Modelo\Modelo.BusinessObjects\bin\Debug\Modelo.BusinessObjects.pdb
+F:\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.dll
+F:\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.pdb
+F:\Projeto Modelo\Modelo\Modelo.BusinessObjects\obj\Debug\Modelo.BusinessObjects.csprojResolveAssemblyReference.cache

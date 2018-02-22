@@ -1,0 +1,16 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessRules\bin\Debug\Modelo.BusinessRules.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessRules\bin\Debug\Modelo.BusinessRules.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessRules\bin\Debug\Modelo.BusinessRules.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessRules\bin\Debug\Modelo.BusinessRules.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.pdb
+F:\Projeto Modelo\Modelo\Modelo.BusinessRules\bin\Debug\Modelo.BusinessRules.dll
+F:\Projeto Modelo\Modelo\Modelo.BusinessRules\bin\Debug\Modelo.BusinessRules.pdb
+F:\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.csprojResolveAssemblyReference.cache
+F:\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.dll
+F:\Projeto Modelo\Modelo\Modelo.BusinessRules\obj\Debug\Modelo.BusinessRules.pdb

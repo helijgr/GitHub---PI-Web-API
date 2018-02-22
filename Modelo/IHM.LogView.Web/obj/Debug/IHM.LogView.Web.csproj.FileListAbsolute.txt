@@ -1,0 +1,66 @@
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\ApplicationInsights.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\csc.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\System.Collections.Immutable.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\System.Reflection.Metadata.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\vbc.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\VBCSCompiler.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\VBCSCompiler.exe.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\IHM.LogView.Web.dll.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\IHM.LogView.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\IHM.LogView.Web.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.Agent.Intercept.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.DependencyCollector.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.WindowsServer.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.ApplicationInsights.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.DependencyCollector.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.Web.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.WindowsServer.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.ApplicationInsights.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\obj\Debug\IHM.LogView.Web.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\obj\Debug\IHM.LogView.Web.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView.Web\obj\Debug\IHM.LogView.Web.pdb
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\ApplicationInsights.config
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\csc.exe
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\System.Collections.Immutable.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\System.Reflection.Metadata.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\vbc.exe
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\VBCSCompiler.exe
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\roslyn\VBCSCompiler.exe.config
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\IHM.LogView.Web.dll.config
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\IHM.LogView.Web.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\IHM.LogView.Web.pdb
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.DependencyCollector.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.Web.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.WindowsServer.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.ApplicationInsights.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.DependencyCollector.xml
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.Web.xml
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.AI.WindowsServer.xml
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.ApplicationInsights.xml
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\obj\Debug\IHM.LogView.Web.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\obj\Debug\IHM.LogView.Web.dll
+F:\Projeto Modelo\Modelo\IHM.LogView.Web\obj\Debug\IHM.LogView.Web.pdb

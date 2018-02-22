@@ -1,0 +1,5 @@
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Release\IHM.ResourcesObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.ResourcesObjects\bin\Release\IHM.ResourcesObjects.pdb
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Release\IHM.ResourcesObjects.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Release\IHM.ResourcesObjects.dll
+C:\Users\gustavo.silveira\Desktop\Klabin\Projeto Modelo\Modelo\IHM.ResourcesObjects\obj\Release\IHM.ResourcesObjects.pdb

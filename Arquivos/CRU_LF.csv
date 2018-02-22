@@ -1,0 +1,19 @@
+﻿Estoque de álcali;CRU e Linha de Fibras;Geral;tATT;Cálculo;Média;'\\ORTSRVPI\Inventario_Alcali';-;timeweighted;-;-;-;-;3500;3700;3800
+Fluxo de Licor Preto Fraco do Digestor Euca para Evaporação;CRU e Linha de Fibras;Licor Preto Eucalipto;m³/tsa;Cálculo;Média;'\\ORTSRVPI\32000FT0360'*24/'\\ORTSRVPI\32110UI1156_PROD';-;timeweighted;-;-;-;-;-;8.2;8.2
+Teor de Sólidos do Licor Preto Fraco do Digestor Euca enviado para Evaporação;CRU e Linha de Fibras;Licor Preto Eucalipto;%;Cálculo;Média;'\\ORTSRVPI\32210V1611_1619-SOLIDOSTOTAIS';-;eventweighted;-;-;-;-; 14; 14;-
+Temperatura do Licor Preto Fraco do Digestor Euca enviado para Evaporação;CRU e Linha de Fibras;Licor Preto Eucalipto;°C;Cálculo;Média;'\\ORTSRVPI\32110TIC1422.PV';-;timeweighted;-;-;-;-; 106; 108;110 
+Fibras no licor preto do Digestor Eucalipto;CRU e Linha de Fibras;Licor Preto Eucalipto;;Cálculo;Média;'\\ORTSRVPI\32210-V-1611_1619-Entrada-TeorFibras';-;eventweighted;-;-;-;-;0;40;40
+Teor de orgânicos no licor preto do Digestor Eucalipto;CRU e Linha de Fibras;Licor Preto Eucalipto;%;Cálculo;Média;'\\ORTSRVPI\32210-V-1611_1619-TEORORGANICOS';-;eventweighted;-;-;-;-;55;;60
+Fluxo de Licor Preto Fraco do Digestor Pínus para Evaporação;CRU e Linha de Fibras;Licor Preto Pinus;m³/tsa;Cálculo;Média;'\\ORTSRVPI\32000FT0363'*24/'\\ORTSRVPI\32310UI4118_PROD';-;timeweighted;-;-;-;-;10.5;11.3;11.3
+Teor de Sólidos do Licor Preto Fraco do Digestor Pínus enviado para Evaporação;CRU e Linha de Fibras;Licor Preto Pinus;%;Cálculo;Média;'\\ORTSRVPI\32310LBT4660-SolidosTotais';-;eventweighted;-;-;-;-;14.6;14.6;15.6
+Temperatura do Licor Preto Fraco do Digestor Pínus enviado para Evaporação;CRU e Linha de Fibras;Licor Preto Pinus;°C;Cálculo;Média;'\\ORTSRVPI\32310TIC4430.PV';-;timeweighted;-;-;-;-;100 ; 108; 108
+Fibras no licor preto do Digestor Pinus;CRU e Linha de Fibras;Licor Preto Pinus;;Cálculo;Média;'\\ORTSRVPI\32310LBT4660-TeorddeFibras';-;eventweighted;-;-;-;-;0;40;40
+Teor de orgânicos no licor preto do Digestor de Pinus;CRU e Linha de Fibras;Licor Preto Pinus;%;Cálculo;Média;'\\ORTSRVPI\32310LBT4660-TEORORGANICOS';-;eventweighted;-;-;-;-;55;-;60
+Concentração do Licor Branco Concentrado enviado para Linha de Fibras;CRU e Linha de Fibras;Licor Branco para Linha de Fibras;g/l (AE, NaOH);Cálculo;Média;'\\ORTSRVPI\35311AT6516H';-;timeweighted;-;-;-;-;117 ;118; 119
+Sulfidez do Licor Branco Concentrado enviado para Linha de Fibras;CRU e Linha de Fibras;Licor Branco para Linha de Fibras;%;Cálculo;Média;'\\ORTSRVPI\35311AT6516E';-;timeweighted;-;-;-;-; 30;32; 34
+Teor de Sólidos Suspensos no Licor Branco Concentrado enviado para Linha de Fibras;CRU e Linha de Fibras;Licor Branco para Linha de Fibras;mg/l (tss);Cálculo;Média;'\\ORTSRVPI\35312V6716-SOLIDOSSUSPENSOS';-;eventweighted;-;-;-;-;0 ;40; 40
+Condutividade do Condensado enviado para Linha de Fibras;CRU e Linha de Fibras;Condensado para Linha de Fibras;µS/cm;Cálculo;Média;'\\ORTSRVPI\35110AT4160';-;timeweighted;-;-;-;-;0 ;300; 400
+DQO do Condensado enviado para Linha de Fibras;CRU e Linha de Fibras;Condensado para Linha de Fibras;mg/l;Cálculo;Média;'\\ORTSRVPI\32120V2776-DQO';-;eventweighted;-;-;-;-;0 ;400; 400
+Temperatura do Condensado enviado para Linha de Fibras;CRU e Linha de Fibras;Condensado para Linha de Fibras;°C;Cálculo;Média;'\\ORTSRVPI\35111TT4397';-;timeweighted;-;-;-;-;73 ;73; 77
+Fluxo de Condensado enviado para Linha de Fibras de Euca;CRU e Linha de Fibras;Condensado para Linha de Fibras;m³/tsa;Cálculo;Média;'\\ORTSRVPI\32000FT0247'*24/'\\ORTSRVPI\32120FI2473_PROD';-;timeweighted;-;-;-;-;-;6;-
+Fluxo de Condensado enviado para Linha de Fibras de Pínus;CRU e Linha de Fibras;Condensado para Linha de Fibras;m³/tsa;Cálculo;Média;'\\ORTSRVPI\32000FT0248'*24/'\\ORTSRVPI\32320FIC5329_PROD';-;timeweighted;-;-;-;-;-;6;-

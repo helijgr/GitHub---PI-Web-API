@@ -1,0 +1,29 @@
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.exe.config
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.exe
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.pdb
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.Properties.Resources.resources
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csproj.GenerateResource.Cache
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.exe
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.pdb
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csprojResolveAssemblyReference.cache
+C:\Projetos\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.Form1.resources
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.exe.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.Form1.resources
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.Properties.Resources.resources
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csproj.GenerateResource.Cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.pdb
+F:\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.exe.config
+F:\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.exe
+F:\Projeto Modelo\Modelo\IHM.LogView\bin\Debug\IHM.LogView.pdb
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csprojResolveAssemblyReference.cache
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.Form1.resources
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.Properties.Resources.resources
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csproj.GenerateResource.Cache
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.exe
+F:\Projeto Modelo\Modelo\IHM.LogView\obj\Debug\IHM.LogView.pdb

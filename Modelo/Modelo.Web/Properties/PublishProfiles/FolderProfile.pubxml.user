@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\PubFiles</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="app/Constants.js">
+      <publishTime>01/16/2018 10:25:31</publishTime>
+    </File>
+    <File Include="app/Controllers/BoletimCRULFCtrl.js">
+      <publishTime>01/16/2018 15:53:18</publishTime>
+    </File>
+    <File Include="app/Controllers/HomeController.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="app/main.js">
+      <publishTime>01/15/2018 18:34:13</publishTime>
+    </File>
+    <File Include="app/Models/BoletimCRULFModel.js">
+      <publishTime>01/15/2018 16:56:10</publishTime>
+    </File>
+    <File Include="app/Modules.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="app/Services/BoletimCRULFService.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="app/Services/LogInService.js">
+      <publishTime>01/16/2018 10:01:26</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>06/23/2017 15:02:07</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>06/23/2017 15:02:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 16:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>07/12/2016 11:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>07/12/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/12/2016 15:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>07/12/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>07/12/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/12/2016 15:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/Modelo.Web.dll">
+      <publishTime>01/16/2018 10:04:29</publishTime>
+    </File>
+    <File Include="bin/Modelo.Web.pdb">
+      <publishTime>01/16/2018 10:04:29</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="css/codepoints">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/grid.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/MaterialIcons-Regular.eot">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/MaterialIcons-Regular.ijmap">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/MaterialIcons-Regular.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/MaterialIcons-Regular.ttf">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/MaterialIcons-Regular.woff">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/MaterialIcons-Regular.woff2">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="img/atualizar.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/calc.jpg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/calcium.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/calculator.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/cbmm.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/cbmm_int_30_05_12.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/CMBB-Logo.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/excel.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/excel_black.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/excel_black2.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/excel_logo.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/excel_svg.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/favicon.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/IHM-Logo.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/ihmLogo.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/logoKlabin.png">
+      <publishTime>01/12/2018 10:03:28</publishTime>
+    </File>
+    <File Include="img/logo_negativa.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/pdf.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/pdf2.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/psbLogo.png">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/report.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="img/selecao_itens.svg">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>01/15/2018 18:32:43</publishTime>
+    </File>
+    <File Include="lib/css/angular-busy.min.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/angular-csp.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/angular-material-layout.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/angular-material.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/angular-material.layouts.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/angular-material.layouts.min.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/angular-material.min.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/export.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/md-data-table.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/nv.d3.min.css">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/css/nv.d3.min.css.map">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/amcharts.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-animate.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-animate.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-animate.min.js.map">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-aria.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-aria.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-aria.min.js.map">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-busy.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-chart.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-chart.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-material-icons.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-material.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-material.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-messages.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-nvd3.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-resource.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-storage.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular-ui-router.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/angular.min.js.map">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/Chart.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/Chart.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/d3.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/export.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/from_html.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/html2canvas.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/html2canvas_3.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/html2pdf.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/jspdf.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/light.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/lodash.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/md-data-table-templates.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/md-data-table.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/moment.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/nv.d3.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/nv.d3.min.js.map">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/saveSvgAsPng.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/serial.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/split_text_to_size.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/sprintf.min.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="lib/js/standard_fonts_metrics.js">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/23/2017 15:02:07</publishTime>
+    </File>
+    <File Include="views/BoletimCRULF.html">
+      <publishTime>01/16/2018 09:57:08</publishTime>
+    </File>
+    <File Include="views/LogIn.html">
+      <publishTime>06/23/2017 16:22:49</publishTime>
+    </File>
+    <File Include="views/main.html">
+      <publishTime>01/15/2018 17:00:48</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/15/2018 18:37:24</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

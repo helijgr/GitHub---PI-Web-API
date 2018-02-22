@@ -1,0 +1,16 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Database\bin\Debug\Modelo.Database.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Database\bin\Debug\Modelo.Database.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Database\bin\Debug\Modelo.Database.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Database\bin\Debug\Modelo.Database.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.pdb
+F:\Projeto Modelo\Modelo\Modelo.Database\bin\Debug\Modelo.Database.dll
+F:\Projeto Modelo\Modelo\Modelo.Database\bin\Debug\Modelo.Database.pdb
+F:\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.csprojResolveAssemblyReference.cache
+F:\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.dll
+F:\Projeto Modelo\Modelo\Modelo.Database\obj\Debug\Modelo.Database.pdb

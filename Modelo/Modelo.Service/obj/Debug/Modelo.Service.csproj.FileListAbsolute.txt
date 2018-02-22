@@ -1,0 +1,30 @@
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\Modelo.Service.exe.config
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\Modelo.Service.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\Modelo.Service.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.csprojResolveAssemblyReference.cache
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Log.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Login.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.LogView.exe
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.ResourcesObjects.dll
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Login.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.LogView.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Log.pdb
+C:\Projetos\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.ResourcesObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\Modelo.Service.exe.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\Modelo.Service.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\Modelo.Service.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Log.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Login.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.LogView.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.ResourcesObjects.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Login.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.LogView.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.LogView.exe.config
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.Log.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\bin\Debug\IHM.ResourcesObjects.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.exe
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\Modelo.Service\obj\Debug\Modelo.Service.pdb

@@ -1,0 +1,16 @@
+C:\Projetos\Projeto Modelo\Modelo\IHM.Log\bin\Debug\IHM.Log.dll
+C:\Projetos\Projeto Modelo\Modelo\IHM.Log\bin\Debug\IHM.Log.pdb
+C:\Projetos\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.dll
+C:\Projetos\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.Log\bin\Debug\IHM.Log.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.Log\bin\Debug\IHM.Log.pdb
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.csprojResolveAssemblyReference.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.csproj.CoreCompileInputs.cache
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.dll
+Y:\TRABALHO\Gustavo Silveira\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.pdb
+F:\Projeto Modelo\Modelo\IHM.Log\bin\Debug\IHM.Log.dll
+F:\Projeto Modelo\Modelo\IHM.Log\bin\Debug\IHM.Log.pdb
+F:\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.csproj.CoreCompileInputs.cache
+F:\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.dll
+F:\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.pdb
+F:\Projeto Modelo\Modelo\IHM.Log\obj\Debug\IHM.Log.csprojResolveAssemblyReference.cache
